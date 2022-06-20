@@ -7,6 +7,7 @@ make your own `telgram bot` using `python`
 
 # clone the this project
 
+	https://github.com/CIRKLARE/telegram-bot.git
 
 # Get your api using botfather
 
